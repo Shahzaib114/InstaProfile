@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74756004461",
+    "project_id": "nordstonetask-7ec9d",
+    "storage_bucket": "nordstonetask-7ec9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74756004461:android:f0766325f87b9c80493d64",
+        "android_client_info": {
+          "package_name": "com.fidbach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74756004461-1icfdb10u6gqr7dq386j6lm53fkpng7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpj1jqt2bpT5K_koYlSpbEO8SiDnd9Bfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74756004461-1icfdb10u6gqr7dq386j6lm53fkpng7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
